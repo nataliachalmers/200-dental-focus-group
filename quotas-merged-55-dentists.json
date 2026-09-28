@@ -1,0 +1,11 @@
+{
+  "_comment": "ADA HPI workforce table scaled to the 55 dentist seats across both benches (seats 1-30 and 101-125). Bench B was merged as built, so most of these cells are expected to be off; the check documents the gap, it does not license rewriting personas. Run: python3 scripts/check_roster.py panel/standing-panel-200.md --seats 1-30,101-125 --dentists --quota panel/quotas-merged-55-dentists.json",
+  "women": 21,
+  "ages": [9, 14, 13, 10, 9],
+  "specialists": 12,
+  "owners": 40,
+  "solo": 19,
+  "medicaid": 23,
+  "dso": 9,
+  "skeptics_min": 17
+}

@@ -1,0 +1,11 @@
+{
+  "_comment": "ADA HPI workforce table scaled to the 30 dentist seats of Bench A (seats 1-30). Run: python3 scripts/check_roster.py panel/standing-panel-200.md --seats 1-30 --quota panel/quotas-bench-a-dentists.json",
+  "women": 12,
+  "ages": [5, 8, 7, 6, 4],
+  "specialists": 6,
+  "owners": 22,
+  "solo": 10,
+  "medicaid": 12,
+  "dso": 5,
+  "skeptics_min": 9
+}
